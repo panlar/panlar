@@ -1,14 +1,18 @@
 <h1 align="center">Johan Barahona | Desarrollador y Diseñador Web & UI</h1>
 
+<h3 align="center">
 <a href="https://panlar.github.io">
-<h3 align="center">Ver Mi Portafolio Web</h3>
+Ver Mi Portafolio Web
 </a>
+</h3>
 
 <img align="right" src="./img/profile.jpg" width="300px" >
 
 Johan Barahona es un Desarrollador y Diseñador Web & UI Freelancer con 2 años de experiencia en esta área.
 
-> En mi experiencia aprendiendo y practicando el desarrollo y diseño web he conocido a grandes desarrolladores y desarrolladores a los cuales me gustaria hacerles mención aquí, ellos son, [Midudev](https://midu.dev/), [Jon Mircha](https://jonmircha.com/), [Carlos Azaustre](https://carlosazaustre.es/), [Soy Dalto](https://youtube.com/soydalto), [Bedimcode](https://youtube.com/bedimcode), [Coding Nepal](https://youtube.com/codingnepal)
+En mi experiencia aprendiendo y practicando el desarrollo y diseño web he conocido a grandes desarrolladores y desarrolladores a los cuales me gustaria hacerles mención aquí, ellos son, [Midudev](https://midu.dev/), [Jon Mircha](https://jonmircha.com/), [Carlos Azaustre](https://carlosazaustre.es/), [Soy Dalto](https://youtube.com/soydalto), [Bedimcode](https://youtube.com/bedimcode), [Coding Nepal](https://youtube.com/codingnepal)
+
+<br>
 
 <h2 align="center">Mis Redes Sociales</h2>
 <div align="center">
@@ -49,28 +53,11 @@ Johan Barahona es un Desarrollador y Diseñador Web & UI Freelancer con 2 años 
 
 <h2 align="center">Mis Proyectos</h2>
 
-<div style="display:grid;grid-template-columns: repeat(auto-fit, minmax(min(100%, 250px), 1fr));gap:2rem;">
-<a href="">
-<img style="aspect-ratio: 16/9;object-fit:cover;" src="./img/panlar-colorpicker.png">
-<span>Panlar Color Picker - HTML, CSS, JavaScript</span>
-</a>
-<a href="">
-<img style="aspect-ratio: 16/9;object-fit:cover;" src="./img/panlar-notes.png">
-<span>Panlar Notes - HTML, CSS, React.js</span>
-</a>
-<a href="">
-<img style="aspect-ratio: 16/9;object-fit:cover;" src="./img/panlar-cursohtml.png">
-<span>Panlar Curso HTML - HTML, CSS, React.js</span>
-</a>
-<a href="">
-<img style="aspect-ratio: 16/9;object-fit:cover;" src="./img/panlar-giffy.png">
-<span>Panlar Giffy - HTML, CSS, React.js</span>
-</a>
-<a href="">
-<img style="aspect-ratio: 16/9;object-fit:cover;" src="./img/panlar-kaboom.png">
-<span>Panlar Kaboom - HTML, CSS, JavaScript, Game Development</span>
-</a>
-</div>
+- [Panlar Color Picker](https://panlar.github.io/colorpicker) ![panlar color picker](./img/panlar-colorpicker.png)
+- [Panlar Notes](https://react-notes-panlar.vercel.app/) ![panlar color picker](./img/panlar-notes.png)
+- [Panlar Curso HTML](https://panlar.github.io/curso-html) ![panlar color picker](./img/panlar-cursohtml.png)
+- [Panlar Giffy](https://giffy-panlar.vercel.app/) ![panlar color picker](./img/panlar-giffy.png)
+- [Kaboom](https://panlar.github.io/kaboom) ![panlar color picker](./img/panlar-kaboom.png)
 
 <!--
 **panlar/panlar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
