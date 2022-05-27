@@ -16,26 +16,26 @@ En mi experiencia aprendiendo y practicando el desarrollo y diseño web he conoc
 
 <h2 align="center">Mis Redes Sociales</h2>
 <div align="center">
-  <a href="#">
+  <a href="https://www.linkedin.com/in/johan-barahona-644508211/">
     <img width="36px" src="./svg/linkedin.svg" />
   </a>
-  <a href="#">
+  <a href="https://github.com/panlar">
     <img width="36px" src="./svg/github.svg" />
   </a>
-  <a href="#">
-    <img width="36px" src="./svg/facebook.svg" />
-  </a>
-  <a href="#">
+  <a href="https://wa.me/50488969200">
     <img width="36px" src="./svg/whatsapp.svg" />
   </a>
-  <a href="#">
+  <a href="https://www.facebook.com/paul.barahona.940/">
+    <img width="36px" src="./svg/facebook.svg" />
+  </a>
+  <a href="https://twitter.com/paul21dev">
+    <img width="36px" src="./svg/twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/paul21barahona/">
     <img width="36px" src="./svg/instagram.svg" />
   </a>
-  <a href="#">
+  <a href="https://pin.it/7IEe4BO">
     <img width="36px" src="./svg/pinterest.svg" />
-  </a>
-  <a href="#">
-    <img width="36px" src="./svg/twitter.svg" />
   </a>
 </div>
 
