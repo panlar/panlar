@@ -6,7 +6,9 @@ Ver Mi Portafolio Web
 </a>
 </h3>
 
-<img src="./img/profile.jpg" width="300px" >
+<img align="center" src="./img/profile.jpg" width="300px" >
+
+<br>
 
 Johan Barahona es un Desarrollador y Diseñador Web & UI Freelancer con 2 años de experiencia en esta área.
 
