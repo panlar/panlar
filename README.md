@@ -7,9 +7,7 @@
 
 ---
 
-<img src="./img/profile.jpg" style="display:block;margin:auto;max-width:500px;width: 100%; aspect-ratio: 4/3; object-fit: cover;" >
-
----
+<img align="right" src="./img/profile.jpg" width="300px" >
 
 Johan Barahona es un Desarrollador y Diseñador Web & UI Freelancer con 2 años de experiencia en esta área.
 
@@ -18,7 +16,7 @@ Johan Barahona es un Desarrollador y Diseñador Web & UI Freelancer con 2 años 
 ---
 
 <h2 align="center" style="border: none;">Mis Redes Sociales</h2>
-<div style="display:flex; justify-content:center;gap: 0.5rem;">
+<div align="center">
   <a href="#">
     <img width="36px" src="./svg/linkedin.svg" />
   </a>
@@ -46,7 +44,7 @@ Johan Barahona es un Desarrollador y Diseñador Web & UI Freelancer con 2 años 
 
 <h2 align="center" style="border: none;">Habilidades Y Tecnologías</h2>
 
-<div style="display:flex; justify-content:center;gap: 0.5rem;">
+<div align="center">
     <img width="36px" src="./svg/html.svg" />
     <img width="36px" src="./svg/css.svg" />
     <img width="36px" src="./svg/javascript.svg" />
