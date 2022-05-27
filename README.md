@@ -6,7 +6,9 @@ Ver Mi Portafolio Web
 </a>
 </h3>
 
-<img align="center" src="./img/profile.jpg" width="300px" >
+<div align="center">
+<img src="./img/profile.jpg" width="300px" >
+</div>
 
 <br>
 
