@@ -1,11 +1,8 @@
-<h1 align="center" style="border: none;">Johan Barahona | Desarrollador y Diseñador Web & UI</h1>
+<h1 align="center">Johan Barahona | Desarrollador y Diseñador Web & UI</h1>
 
----
 <a href="https://panlar.github.io">
-<h3 align="center" style="border: none;">Ver Mi Portafolio Web</h3>
+<h3 align="center">Ver Mi Portafolio Web</h3>
 </a>
-
----
 
 <img align="right" src="./img/profile.jpg" width="300px" >
 
@@ -13,9 +10,7 @@ Johan Barahona es un Desarrollador y Diseñador Web & UI Freelancer con 2 años 
 
 > En mi experiencia aprendiendo y practicando el desarrollo y diseño web he conocido a grandes desarrolladores y desarrolladores a los cuales me gustaria hacerles mención aquí, ellos son, [Midudev](https://midu.dev/), [Jon Mircha](https://jonmircha.com/), [Carlos Azaustre](https://carlosazaustre.es/), [Soy Dalto](https://youtube.com/soydalto), [Bedimcode](https://youtube.com/bedimcode), [Coding Nepal](https://youtube.com/codingnepal)
 
----
-
-<h2 align="center" style="border: none;">Mis Redes Sociales</h2>
+<h2 align="center">Mis Redes Sociales</h2>
 <div align="center">
   <a href="#">
     <img width="36px" src="./svg/linkedin.svg" />
@@ -40,9 +35,7 @@ Johan Barahona es un Desarrollador y Diseñador Web & UI Freelancer con 2 años 
   </a>
 </div>
 
----
-
-<h2 align="center" style="border: none;">Habilidades Y Tecnologías</h2>
+<h2 align="center">Habilidades Y Tecnologías</h2>
 
 <div align="center">
     <img width="36px" src="./svg/html.svg" />
@@ -54,9 +47,7 @@ Johan Barahona es un Desarrollador y Diseñador Web & UI Freelancer con 2 años 
     <img width="36px" src="./svg/bootstrap.svg" />
 </div>
 
----
-
-<h2 align="center" style="border: none;">Mis Proyectos</h2>
+<h2 align="center">Mis Proyectos</h2>
 
 <div style="display:grid;grid-template-columns: repeat(auto-fit, minmax(min(100%, 250px), 1fr));gap:2rem;">
 <a href="">
